@@ -1,0 +1,17 @@
+/node_modules/
+/app/node_modules/
+/server/node_modules/
+
+.env
+/app/.env
+/server/.env
+/server/src/constants.ts
+/server/dist
+/app/.next
+/app/yarn-error.log
+/server/.idea
+/app/.idea
+/.idea
+/server/yarn-error.log
+/app/build/
+/server/build/

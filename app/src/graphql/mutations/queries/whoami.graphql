@@ -1,0 +1,6 @@
+query Whoami {
+    whoami {
+        id
+        username
+    }
+}
